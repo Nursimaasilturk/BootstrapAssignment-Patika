@@ -1,0 +1,77 @@
+* {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.bg-color {
+  background-color: rgb(81, 57, 81);
+}
+.text-color {
+  color: #ffffff;
+}
+button a {
+  color: plum;
+  text-decoration: none;
+}
+a:hover {
+  color: plum;
+}
+main {
+  width: 100% !important;
+  background-color: #e9ecef;
+}
+.main-content {
+  height: 40vh;
+  background-color: plum;
+}
+.border-plum {
+  border: 2px solid plum;
+  background-color: white;
+  color: plum;
+}
+button {
+  width: 200px;
+}
+.container .item img {
+  height: 40vh;
+}
+.container .item {
+  margin: 2rem;
+}
+.item--header {
+  color: red;
+}
+.product {
+  height: 30vw;
+}
+.product img {
+  height: 20vw;
+}
+.product button {
+  background-color: white;
+  color: plum;
+  border: 2px solid plum;
+}
+.product button a {
+  color: plum;
+  text-decoration: none;
+}
+.category-header p {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: red;
+}
+.space {
+  padding-bottom: 150px;
+}
+.header {
+  font-size: larger;
+  font-weight: 800;
+  color: red;
+}
+
+.about p {
+  font-size: 0.7rem;
+  font-weight: 300;
+}
